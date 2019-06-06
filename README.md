@@ -12,7 +12,6 @@ QP implemenatation
 ### Reference
 
 1. [QP vs LQR](https://www.kth.se/social/upload/5194b53af276547cb18f4624/lec13_mpc2_4up.pdf)
-2. [a](file:///home/ajay/Desktop/3.pdf)
 3. [b](https://stanford.edu/class/ee365/lectures/mpc.pdf)
 4. [c](https://arxiv.org/pdf/1501.04352.pdf)
 5. [d]()
